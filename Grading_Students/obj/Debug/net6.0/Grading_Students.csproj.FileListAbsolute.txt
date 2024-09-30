@@ -1,0 +1,15 @@
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Grading_Students\bin\Debug\net6.0\Grading_Students.exe
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Grading_Students\bin\Debug\net6.0\Grading_Students.deps.json
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Grading_Students\bin\Debug\net6.0\Grading_Students.runtimeconfig.json
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Grading_Students\bin\Debug\net6.0\Grading_Students.dll
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Grading_Students\bin\Debug\net6.0\Grading_Students.pdb
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Grading_Students\obj\Debug\net6.0\Grading_Students.GeneratedMSBuildEditorConfig.editorconfig
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Grading_Students\obj\Debug\net6.0\Grading_Students.AssemblyInfoInputs.cache
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Grading_Students\obj\Debug\net6.0\Grading_Students.AssemblyInfo.cs
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Grading_Students\obj\Debug\net6.0\Grading_Students.csproj.CoreCompileInputs.cache
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Grading_Students\obj\Debug\net6.0\Grading_Students.sourcelink.json
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Grading_Students\obj\Debug\net6.0\Grading_Students.dll
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Grading_Students\obj\Debug\net6.0\refint\Grading_Students.dll
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Grading_Students\obj\Debug\net6.0\Grading_Students.pdb
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Grading_Students\obj\Debug\net6.0\Grading_Students.genruntimeconfig.cache
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Grading_Students\obj\Debug\net6.0\ref\Grading_Students.dll
