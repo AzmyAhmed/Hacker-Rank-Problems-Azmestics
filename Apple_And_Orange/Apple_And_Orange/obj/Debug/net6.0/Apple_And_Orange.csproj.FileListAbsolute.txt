@@ -1,0 +1,15 @@
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Apple_And_Orange\Apple_And_Orange\bin\Debug\net6.0\Apple_And_Orange.exe
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Apple_And_Orange\Apple_And_Orange\bin\Debug\net6.0\Apple_And_Orange.deps.json
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Apple_And_Orange\Apple_And_Orange\bin\Debug\net6.0\Apple_And_Orange.runtimeconfig.json
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Apple_And_Orange\Apple_And_Orange\bin\Debug\net6.0\Apple_And_Orange.dll
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Apple_And_Orange\Apple_And_Orange\bin\Debug\net6.0\Apple_And_Orange.pdb
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Apple_And_Orange\Apple_And_Orange\obj\Debug\net6.0\Apple_And_Orange.GeneratedMSBuildEditorConfig.editorconfig
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Apple_And_Orange\Apple_And_Orange\obj\Debug\net6.0\Apple_And_Orange.AssemblyInfoInputs.cache
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Apple_And_Orange\Apple_And_Orange\obj\Debug\net6.0\Apple_And_Orange.AssemblyInfo.cs
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Apple_And_Orange\Apple_And_Orange\obj\Debug\net6.0\Apple_And_Orange.csproj.CoreCompileInputs.cache
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Apple_And_Orange\Apple_And_Orange\obj\Debug\net6.0\Apple_And_Orange.sourcelink.json
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Apple_And_Orange\Apple_And_Orange\obj\Debug\net6.0\Apple_And_Orange.dll
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Apple_And_Orange\Apple_And_Orange\obj\Debug\net6.0\refint\Apple_And_Orange.dll
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Apple_And_Orange\Apple_And_Orange\obj\Debug\net6.0\Apple_And_Orange.pdb
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Apple_And_Orange\Apple_And_Orange\obj\Debug\net6.0\Apple_And_Orange.genruntimeconfig.cache
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Apple_And_Orange\Apple_And_Orange\obj\Debug\net6.0\ref\Apple_And_Orange.dll

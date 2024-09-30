@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\DataStructure\\Problemsolving\\Git_Hub\\Hacker-Rank-Problems-Azmestics\\Apple_And_Orange\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6376265D-FEAE-48F6-BBF0-879AF3BCD251}|Apple_And_Orange\\Apple_And_Orange.csproj|g:\\datastructure\\problemsolving\\git_hub\\hacker-rank-problems-azmestics\\apple_and_orange\\apple_and_orange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6376265D-FEAE-48F6-BBF0-879AF3BCD251}|Apple_And_Orange\\Apple_And_Orange.csproj|solutionrelative:apple_and_orange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\DataStructure\\Problemsolving\\Git_Hub\\Hacker-Rank-Problems-Azmestics\\Apple_And_Orange\\Apple_And_Orange\\Program.cs",
+              "RelativeDocumentMoniker": "Apple_And_Orange\\Program.cs",
+              "ToolTip": "G:\\DataStructure\\Problemsolving\\Git_Hub\\Hacker-Rank-Problems-Azmestics\\Apple_And_Orange\\Apple_And_Orange\\Program.cs",
+              "RelativeToolTip": "Apple_And_Orange\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:11:05.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
