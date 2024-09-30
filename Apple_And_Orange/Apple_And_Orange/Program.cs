@@ -14,23 +14,38 @@ using System;
 
 class Result
 {
-
+    // بسم الله 
+    // لينك المسألة
+    // https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true
     public static void countApplesAndOranges(int s, int t, int a, int b, List<int> apples, List<int> oranges)
     {
+        // مكان التفاحه
         int apple_Position = 0;
+        // مكان البرتقاله
         int orange_Position = 0;
+        // عدد التفاح اللى نزل علي البيت
         int apple_Count_In_Position = 0;
+        // عدد البرتقال اللى نزل علي البيت
         int orange_Count_In_Position = 0;
+        // ابدأ اطبع عشان تشوف القيم اللي هتستغل عليها
+
 
         foreach (int apple in apples)
         {
+            // a اول البيت تجاه شجره التفاح
+            // apple + التفاحه راحت ناحيه البيت - التفاحه راحت بعيد عن البيت
             apple_Position = a + apple;
+            // s ده اول البيت ان لو التفاحة وصلتله تبقي وقعت عليه
+            // t اخر البيت نفس الكلام
+            // التفاحه مثلا 8 بين 7 و 11 كده عليا لبيت
             if (apple_Position >= s && apple_Position <= t)
             {
+                // التفاحه كده نزلت علي البيت
                 apple_Count_In_Position += 1;
             }
 
         }
+        // اطبع عدد التفاح اللى نزل 
         Console.WriteLine(apple_Count_In_Position);
         foreach (int orange in oranges)
         {
