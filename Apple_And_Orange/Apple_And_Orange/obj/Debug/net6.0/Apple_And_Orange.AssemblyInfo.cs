@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Apple_And_Orange")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a6d3004d36f987431c6ae42f7ac2283951f5057")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d569b4fb7cd98add69ae10c72033754805b61c08")]
 [assembly: System.Reflection.AssemblyProductAttribute("Apple_And_Orange")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Apple_And_Orange")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
