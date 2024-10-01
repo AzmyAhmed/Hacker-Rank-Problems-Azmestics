@@ -1,0 +1,15 @@
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Number_Line_Jumps\bin\Debug\net6.0\Number_Line_Jumps.exe
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Number_Line_Jumps\bin\Debug\net6.0\Number_Line_Jumps.deps.json
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Number_Line_Jumps\bin\Debug\net6.0\Number_Line_Jumps.runtimeconfig.json
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Number_Line_Jumps\bin\Debug\net6.0\Number_Line_Jumps.dll
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Number_Line_Jumps\bin\Debug\net6.0\Number_Line_Jumps.pdb
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Number_Line_Jumps\obj\Debug\net6.0\Number_Line_Jumps.GeneratedMSBuildEditorConfig.editorconfig
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Number_Line_Jumps\obj\Debug\net6.0\Number_Line_Jumps.AssemblyInfoInputs.cache
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Number_Line_Jumps\obj\Debug\net6.0\Number_Line_Jumps.AssemblyInfo.cs
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Number_Line_Jumps\obj\Debug\net6.0\Number_Line_Jumps.csproj.CoreCompileInputs.cache
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Number_Line_Jumps\obj\Debug\net6.0\Number_Line_Jumps.sourcelink.json
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Number_Line_Jumps\obj\Debug\net6.0\Number_Line_Jumps.dll
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Number_Line_Jumps\obj\Debug\net6.0\refint\Number_Line_Jumps.dll
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Number_Line_Jumps\obj\Debug\net6.0\Number_Line_Jumps.pdb
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Number_Line_Jumps\obj\Debug\net6.0\Number_Line_Jumps.genruntimeconfig.cache
+G:\DataStructure\Problemsolving\Git_Hub\Hacker-Rank-Problems-Azmestics\Number_Line_Jumps\obj\Debug\net6.0\ref\Number_Line_Jumps.dll
